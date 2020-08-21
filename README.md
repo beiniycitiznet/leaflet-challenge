@@ -64,4 +64,4 @@ Your final product will be assessed on the following metrics:
 
 * Professionalism
 
-
+## [Earthquakes vs. Plates]( https://beiniycitiznet.github.io/leaflet-challenge/)
